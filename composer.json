@@ -1,5 +1,5 @@
 {
-  "name": "adubovskoy/drupal-codeception",
+  "name": "addduby/drupal-codeception",
   "description": "Codeception toolset for Drupal testing, fork.",
   "type": "package",
   "repositories": [
